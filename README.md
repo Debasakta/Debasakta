@@ -2,4 +2,4 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React js
 - 💞️ Looking for a job in IT sector
-- - 📫 Reach me on -www.linkedin.com/in/debasakta-pati-0641991ba
+- 📫 Reach me on -www.linkedin.com/in/debasakta-pati-0641991ba
